@@ -11,4 +11,4 @@ typedef struct node_st
     int value;
     struct node *leftchild;
     struct node *rightchild;
-} node;
+} node_st;
